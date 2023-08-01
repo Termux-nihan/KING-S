@@ -108,7 +108,7 @@ def fuck():
         os.system('clear')
         print(logo)
         os.system('xdg-open https://www.facebook.com/profile.php?id=100055821998949')
-        tl = str(len(user)
+        tl = str(len(user))
         print('\033[1;37m[\033[1;32m✓\033[1;32m] SIM CODE : '+nude)
         print('\033[1;37m[\033[1;32m✓\033[1;32m] SOME ID,S WAS LOCKED ')
         print('\033[1;37m[\033[1;32m✓\033[1;32m] TOOL CREATED BY RONI JOIN MY GROUP ')
